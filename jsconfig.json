@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "es2020",
+    "esModuleInterop": true,
+    "types": ["cypress"]
+  },
+  "include": ["cypress/**/*.js"],
+  "exclude": ["node_modules"]
+}
